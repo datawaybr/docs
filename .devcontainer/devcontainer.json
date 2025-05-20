@@ -1,0 +1,7 @@
+{
+	"name": "Vitepress",
+	"build": {
+		"context": "..",
+		"dockerfile": "./Dockerfile"
+	}
+}
