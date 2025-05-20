@@ -20,8 +20,8 @@ export default defineConfig({
             text: 'Playlists do Youtube',
             link: 'https://www.youtube.com/@datawaybr',
             items: [
-              { text: 'Engenharia de Dados', link: 'https://www.youtube.com/@datawaybr/streams' },
-              { text: 'Engenharia de IA', link: 'https://www.youtube.com/@datawaybr/streams' },
+              { text: 'Engenharia de Dados', link: 'https://www.youtube.com/playlist?list=PLLddHoFK19tCThtz50bBMs3E7qgMBkI3y' },
+              { text: 'Engenharia de IA', link: 'https://www.youtube.com/playlist?list=PLLddHoFK19tDK-vIWv_cxjuShWxg88t8A' },
             ]
           }
         ]
