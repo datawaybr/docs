@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "DataWay BR",
   description: "Guia de estudos para dominar a IA",
+  base: '/docs/',
   themeConfig: {
     nav: [
       { text: 'Página Inicial', link: '/' },
