@@ -63,6 +63,13 @@ Contém o mínimo necessário para você começar a trabalhar com Engenharia de 
       <p>Fundamentos de banco de dados e consultas SQL.</p>
       <a href="https://www.youtube.com/playlist?list=PLLddHoFK19tDDRfKnSc4e3gFyXAVkRAdM">Começar agora →</a>
     </div>
+    <div class="course-card right">
+      <div class="course-number">06</div>
+      <h3>Python para Cientistas de Dados</h3>
+      <p><span class="level-badge">Iniciante</span></p>
+      <p>Aprenda a linguagem mais utilizada em Ciência de Dados.</p>
+      <a href="https://membros.datawaybr.com/226823-intermediario-python-para-ciencia-de-dados">Começar agora →</a>
+    </div>
   </div>
 </div>
 
