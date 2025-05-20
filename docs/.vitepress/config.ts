@@ -16,15 +16,6 @@ export default defineConfig({
           { text: 'Dataway Prime', link: '/dataway-prime/getting-started' },
           { text: 'Engenharia de dados', link: '/data-engineering/getting-started' },
           { text: 'Engenharia de IA', link: '/ai-engineering/getting-started' },
-          { 
-            text: 'Cursos',
-            link: '/courses/getting-started',
-            items: [
-              { text: 'Essencial', link: '/courses/essential' },
-              { text: 'IA', link: '/courses/ai' },
-              { text: 'Especialização', link: '/courses/specialization' },
-            ]
-          },
           {
             text: 'Playlists do Youtube',
             link: 'https://www.youtube.com/@datawaybr',
